@@ -1,4 +1,4 @@
-# CMPINF-0100-Final-Project-Group-42
+# CMPINF-0010-Final-Project-Group-42
 
 ## Team Name: Group 42
 ## Team Memebers:
@@ -15,7 +15,7 @@
 |-----|-----|
 |Pittsburgh Fire Incidents|https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh|
 | - | - |
-| - | - |
+|Pittsburgh Arrest Data|https://data.wprdc.org/dataset/arrest-data|
 
 ## Overview:
 
