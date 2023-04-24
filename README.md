@@ -1,6 +1,7 @@
 # CMPINF-0010-Final-Project-Group-42
 
 ## Team Name: Group 42
+## Canvas Group: 42
 ## Team Members:
 
 | Member | Email | Notebook |
