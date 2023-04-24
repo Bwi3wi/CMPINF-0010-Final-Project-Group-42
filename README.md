@@ -3,11 +3,11 @@
 ## Team Name: Group 42
 ## Team Members:
 
-| Member | Email |
-| ------ | ----- |
-|Bruce Weis|BAW106@pitt.edu|
-|Roja Kafle|ROK85@pitt.edu|
-|Yikai Zhang|YIZ187@pitt.edu|
+| Member | Email | Notebook |
+| ------ | ----- | ----- |
+|Bruce Weis|BAW106@pitt.edu|Fire_Data.ipynb|
+|Roja Kafle|ROK85@pitt.edu|BloodLevel.ipynb|
+|Yikai Zhang|YIZ187@pitt.edu|Arrest in Pittsburgh.ipynb|
 
 ## Data Sets Used:
 
