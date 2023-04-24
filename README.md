@@ -19,4 +19,4 @@
 
 ## Overview:
 
-This repository contains datasets, notebooks, and reports used to determine the "best" neighborhood in the city of Pittsburgh
+This repository contains datasets, notebooks, and reports used to determine the "best" neighborhood in the city of Pittsburgh based on the metric of safety and submetrics of fire incidents, number of arrests, and harmful blood lead levels.
