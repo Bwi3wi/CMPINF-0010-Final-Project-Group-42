@@ -1,7 +1,7 @@
 # CMPINF-0010-Final-Project-Group-42
 
 ## Team Name: Group 42
-## Team Memebers:
+## Team Members:
 
 | Member | Email |
 | ------ | ----- |
